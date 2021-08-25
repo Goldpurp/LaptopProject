@@ -75,7 +75,7 @@ namespace Laptop
             else
             {
                 Console.WriteLine($"{product} is not found ");
-            }
+            } 
 
         }
 
