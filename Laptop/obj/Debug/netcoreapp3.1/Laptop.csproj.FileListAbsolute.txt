@@ -1,0 +1,13 @@
+C:\Dektop\Laptop\Laptop\bin\Debug\netcoreapp3.1\Laptop.exe
+C:\Dektop\Laptop\Laptop\bin\Debug\netcoreapp3.1\Laptop.deps.json
+C:\Dektop\Laptop\Laptop\bin\Debug\netcoreapp3.1\Laptop.runtimeconfig.json
+C:\Dektop\Laptop\Laptop\bin\Debug\netcoreapp3.1\Laptop.runtimeconfig.dev.json
+C:\Dektop\Laptop\Laptop\bin\Debug\netcoreapp3.1\Laptop.dll
+C:\Dektop\Laptop\Laptop\bin\Debug\netcoreapp3.1\Laptop.pdb
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.csproj.AssemblyReference.cache
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.AssemblyInfoInputs.cache
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.AssemblyInfo.cs
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.csproj.CoreCompileInputs.cache
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.dll
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.pdb
+C:\Dektop\Laptop\Laptop\obj\Debug\netcoreapp3.1\Laptop.genruntimeconfig.cache
