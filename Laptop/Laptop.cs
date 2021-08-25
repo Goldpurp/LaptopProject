@@ -68,7 +68,7 @@ namespace Laptop
         public void SetPrice( double productPrice)
         {
             Price = productPrice;
-        }
+        } 
             
     }
 }
